@@ -11,19 +11,19 @@ Example: Simple Calculator by Using Functions
 # Program make a simple calculator
 
 # This function adds two numbers
-def add(x, y):
-    return x + y
+def addition(x, z):
+    return x + z
 
 # This function subtracts two numbers
-def subtract(x, y):
+def subtraction(x, y):
     return x - y
 
 # This function multiplies two numbers
-def multiply(x, y):
+def multiplication(x, y):
     return x * y
 
 # This function divides two numbers
-def divide(x, y):
+def division(x, y):
     return x / y
 
 
